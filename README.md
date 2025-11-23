@@ -33,8 +33,8 @@ functions or a GUI interface.
 
 ##  Error Handling
 
--   Invalid operator protection\
--   Zero‑division handling\
+-   Invalid operator protection
+-   Zero‑division handling
 -   Numeric input validation
 
 ##  License
