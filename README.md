@@ -9,9 +9,9 @@ functions or a GUI interface.
 
 ## Features
 
--   Supports **Addition (+)
--   **Subtraction (−)
--   **Multiplication (×)
+-   Supports Addition (+)
+-   Subtraction (−)
+-   Multiplication (×)
 -   **Division (÷)** with zero-division handling
 -   Beginner-friendly and easy to understand
 -   Pure Python implementation
